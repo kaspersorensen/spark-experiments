@@ -1,0 +1,1 @@
+Configure your Spark-Submit command to use this hadoop conf directory.
